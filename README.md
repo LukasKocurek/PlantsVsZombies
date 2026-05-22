@@ -1,7 +1,7 @@
 <div align="center">
 🌻 Plants vs Zombies
  
-**A Java + JavaFX tower defense game inspired by the classic PopCap title.**
+**A Java + JavaFX tower defense game inspired by the classic PopCap title. Made for school project.**
  
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-21-1B6AC6?style=flat-square&logo=java&logoColor=white)
