@@ -1,5 +1,5 @@
 <div align="center">
-# 🌻 Plants vs Zombies
+🌻 Plants vs Zombies
  
 **A Java + JavaFX tower defense game inspired by the classic PopCap title.**
  
